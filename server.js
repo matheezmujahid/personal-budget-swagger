@@ -229,5 +229,5 @@ app.delete('/prices/:name', (req, res) => {
 
 
 app.listen(port, () => {
-    console.log(`API server at http://192.81.209.197:${port}`);
+    console.log(`API server at http://161.35.54.0:${port}`);
 });
